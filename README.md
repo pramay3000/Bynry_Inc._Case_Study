@@ -15,7 +15,6 @@ The approach to be tested involves the following steps:
 2. Data Mapping: Map the extracted consumer data to corresponding tables within the SMART360 platform.
 3. Transformation and Loading: Transform the extracted data according to SMART360 requirements and load it into the platform.
 4. Validation and Testing: Thoroughly validate and test the integrated consumer data to ensure its accuracy, completeness, and consistency.
-5. Deployment: Deploy the Python scripts for automated data integration and set up scheduled tasks or triggers for execution.
 
 Directory Structure:
 
